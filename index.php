@@ -67,7 +67,7 @@ session_start();
             <div class="city-card-container col-md">
                 <a href="property_list.php?city=Hyderabad">
                     <div class="city-card rounded-circle">
-                        <img src="img/hyderabad.png" class="city-img" />
+                        <img src="img/BCroy.jpg" class="city-img" />
                     </div>
                 </a>
             </div>
