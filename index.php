@@ -37,13 +37,13 @@ session_start();
 
     <div class="page-container">
         <h1 class="city-heading">
-            Major Cities
+                local Area
         </h1>
         <div class="row">
             <div class="city-card-container col-md">
                 <a href="property_list.php?city=Delhi">
                     <div class="city-card rounded-circle">
-                        <img src="img/delhi.png" class="city-img" />
+                        <img src="img/rahul.png" class="city-img" />
                     </div>
                 </a>
             </div>
@@ -51,7 +51,7 @@ session_start();
             <div class="city-card-container col-md">
                 <a href="property_list.php?city=Mumbai">
                     <div class="city-card rounded-circle">
-                        <img src="img/mumbai.png" class="city-img" />
+                        <img src="img/nshm.jpg" class="city-img" />
                     </div>
                 </a>
             </div>
@@ -59,7 +59,7 @@ session_start();
             <div class="city-card-container col-md">
                 <a href="property_list.php?city=Bengaluru">
                     <div class="city-card rounded-circle">
-                        <img src="img/bangalore.png" class="city-img" />
+                        <img src="img/bengal.jpg" class="city-img" />
                     </div>
                 </a>
             </div>
