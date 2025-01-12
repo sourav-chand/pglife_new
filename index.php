@@ -41,7 +41,7 @@ session_start();
         </h1>
         <div class="row">
             <div class="city-card-container col-md">
-                <a href="property_list.php?city=Rajbandh">
+                <a href="property_list.php?city=Rahul_foundation">
                     <div class="city-card rounded-circle">
                         <img src="img/rahul.png" class="city-img" />
                     </div>
@@ -49,7 +49,7 @@ session_start();
             </div>
 
             <div class="city-card-container col-md">
-                <a href="property_list.php?city=Mumbai">
+                <a href="property_list.php?city=NSHM">
                     <div class="city-card rounded-circle">
                         <img src="img/nshm.jpg" class="city-img" />
                     </div>
@@ -57,7 +57,7 @@ session_start();
             </div>
 
             <div class="city-card-container col-md">
-                <a href="property_list.php?city=Bengaluru">
+                <a href="property_list.php?city=Bengal_college">
                     <div class="city-card rounded-circle">
                         <img src="img/bengal.jpg" class="city-img" />
                     </div>
@@ -65,12 +65,41 @@ session_start();
             </div>
 
             <div class="city-card-container col-md">
-                <a href="property_list.php?city=Hyderabad">
+                <a href="property_list.php?city=BC_roy">
                     <div class="city-card rounded-circle">
                         <img src="img/BCroy.jpg" class="city-img" />
                     </div>
                 </a>
             </div>
+
+            <!-- <div class="city-card-container col-md">
+                <a href="property_list.php?city=ABS">
+                    <div class="city-card rounded-circle">
+                        <img src="img/nshm.jpg" class="city-img" />
+                    </div>
+                </a>
+            </div>
+            <div class="city-card-container col-md">
+                <a href="property_list.php?city=NSHM">
+                    <div class="city-card rounded-circle">
+                        <img src="img/nshm.jpg" class="city-img" />
+                    </div>
+                </a>
+            </div>
+            <div class="city-card-container col-md">
+                <a href="property_list.php?city=NSHM">
+                    <div class="city-card rounded-circle">
+                        <img src="img/nshm.jpg" class="city-img" />
+                    </div>
+                </a>
+            </div>
+            <div class="city-card-container col-md">
+                <a href="property_list.php?city=NSHM">
+                    <div class="city-card rounded-circle">
+                        <img src="img/nshm.jpg" class="city-img" />
+                    </div>
+                </a>
+            </div> -->
         </div>
     </div>
 
