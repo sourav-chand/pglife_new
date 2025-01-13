@@ -13,6 +13,11 @@ session_start();
     include "includes/head_links.php";
     ?>
     <link href="css/home.css" rel="stylesheet" />
+    <style>
+        #serach_input{
+            background-color: white;
+        }
+    </style>
 </head>
 
 <body>
@@ -25,7 +30,7 @@ session_start();
 
         <form id="search-form" action="property_list.php" method="GET">
             <div class="input-group city-search">
-                <input type="text" class="form-control input-city" id='city' name='city' placeholder="Enter your city to search for PGs" />
+                <input id ="serach_input" type="text" class="form-control input-city" id='city' name='city' placeholder="Enter your city to search for PGs" />
                 <div class="input-group-append">
                     <button type="submit" class="btn btn-secondary">
                         <i class="fa fa-search"></i>
