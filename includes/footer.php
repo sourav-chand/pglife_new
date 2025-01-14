@@ -143,27 +143,10 @@
                     <button type="submit" class="btn btn-primary">Send Message</button>
                 </form>
             </div>
-
-            <!-- Newsletter -->
-            <div class="col-md-3 mb-4">
-                <h5>Newsletter</h5>
-                <p>Subscribe to our newsletter for updates and exclusive offers!</p>
-                <form id="newsletterForm">
-                    <div class="mb-3">
-                        <input type="email" class="form-control" placeholder="Enter your email" required>
-                    </div>
-                    <button type="submit" class="btn btn-primary">Subscribe</button>
-                </form>
-            </div>
         </div>
     </div>
 
-    <!-- Footer Bottom -->
-    <!-- <div class="footer-bottom text-center">
-        <div class="container">
-            <p class="mb-0">&copy; 2025 Your Company. All rights reserved.</p>
-        </div>
-    </div> -->
+
 </footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
