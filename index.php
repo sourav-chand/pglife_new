@@ -42,7 +42,7 @@ session_start();
 
     <div class="page-container">
         <h1 class="city-heading">
-                local Area
+               Local Colleges
         </h1>
         <div class="row">
             <div class="city-card-container col-md">
