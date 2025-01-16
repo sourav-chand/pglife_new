@@ -16,6 +16,7 @@ session_start();
     <style>
         #serach_input{
             background-color: white;
+            color: black;
         }
     </style>
 </head>
