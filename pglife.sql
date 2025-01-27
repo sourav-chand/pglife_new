@@ -281,12 +281,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `email`, `password`, `full_name`, `phone`, `gender`, `college_name`) VALUES
 (1, 'anuj.kalbalia@gmail.com', 'b1b3773a05c0ed0176787a4f1574ff0075f7521e', 'Anuj Kalbalia', '9535100112', 'male', 'NITD'),
-(2, 'shadab@gmail.com', 'b1b3773a05c0ed0176787a4f1574ff0075f7521e', 'Shadab Alam', '9876543210', 'male', 'NITJ'),
-(3, 'aditya@gmail.com', 'b1b3773a05c0ed0176787a4f1574ff0075f7521e', 'Aditya Sood', '9876543210', 'male', 'Chandigarh University'),
-(4, 'radhika@gmail.com', 'b1b3773a05c0ed0176787a4f1574ff0075f7521e', 'Radhika Bhatia', '9876543210', 'female', 'Delhi University'),
-(5, 'souravchand8116586038@gmail.com', 'Sourav@bca08\nhello', 'Sourav Chand', '8116586038', 'male', 'MID'),
-(7, 'souravchand1109@gmail.com', '1fc76c997093f347820bb8b414d79d33ab89e47f', 'Sourav Chand', '8116586038', 'male', 'MID'),
-(8, 'test@gmail.com', '819c2d11716c2267a57d770e6c4184f71e836173', 'test', '1235789879', 'female', 'abc');
+
 
 --
 -- Indexes for dumped tables
